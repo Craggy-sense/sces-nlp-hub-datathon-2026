@@ -36,7 +36,7 @@ The [student handbook](https://docs.google.com/document/d/1CNh4ol7j1O7ieYCteo3Nn
 
 ## Review and receipt
 
-An automated check flags changes outside one team folder, missing submission READMEs, and oversized files. It does not verify correctness, source rights, video access or team identity. Organisers check those before merging. A green check or merge is not a mark, an award or confirmation that all task requirements were met.
+Organisers check that each PR changes only one assigned team folder, includes its completed README and required materials, and has viewable evidence links. A metadata validator is supplied in `tools/` for organiser use; an automatic workflow is not enabled. Neither a check nor a merge is a mark, an award or confirmation that all task requirements were met.
 
 If you correct your submission before the deadline, commit the correction to the same fork branch; the existing PR updates. After the deadline, clearly identify later changes. Organisers record the submission time and the exact PR/source commit assessed. See [MAINTAINER_GUIDE.md](MAINTAINER_GUIDE.md).
 

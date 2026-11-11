@@ -14,8 +14,9 @@ Only organisers should have write/admin access. Students contribute through fork
 
 - Protect `main`: require PRs, one code-owner approval, dismiss stale approvals, and prevent force pushes/deletion. Keep bypass access limited.
 - `.github/CODEOWNERS` names the repository owner for all paths. CODEOWNERS requests/requires review when protected-branch settings enforce it; it does not create directory-level write permissions.
-- The validation workflow reads PR file metadata only. It does not check out, import, install or execute student code. Its token is read-only.
-- The automated check flags scope, README and file-size problems. It does not prove team identity, correctness, reviewer competence, video access, privacy or permission.
+- `tools/validate_submission.py` can be run by an organiser with a read-only GitHub token in `GH_TOKEN`, this repository in `GITHUB_REPOSITORY` and the PR number in `PR_NUMBER`. It reads PR metadata and file contents; it does not check out, import, install or execute student code.
+- An automatic workflow is not enabled: the current connection cannot publish workflow files. Required organiser/code-owner approval is the enforced merge gate. Review every changed path before approving.
+- The supplied validator flags scope, README and file-size problems. It does not prove team identity, correctness, reviewer competence, video access, privacy or permission.
 - Do not broaden student permissions to solve fork/PR problems. Help them correct their fork or use an explicitly recorded organiser-approved fallback.
 
 The submission deadline extension leaves final review and moderation on **13 November** if the previously announced finalist date is retained. Organise parallel review rather than assuming the old two-full-day window still exists.
