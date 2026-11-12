@@ -1,0 +1,13 @@
+{
+  "model": "experimental_kikuyu_aware_lr",
+  "trained_on": "train+dev",
+  "records": 240,
+  "label_counts": {
+    "negative": 80,
+    "neutral": 80,
+    "positive": 80
+  },
+  "cv_macro_f1_setup_E": 0.6985,
+  "test_evaluated": false,
+  "sklearn_version": "1.6.1"
+}

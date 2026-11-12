@@ -1,0 +1,61 @@
+﻿record_id,text,label,prediction
+KIK-PILOT-006,irio ici cīna cama muno,positive,negative
+KIK-NEG-026,Nĩnogete nĩ gũeterera kahida karaihu ,negative,negative
+KIK-NEG-029,cũcũ ũcio nĩ mũndũ mũru,negative,positive
+KIK-NEU-030,Twe mũcemanio thaici,neutral,neutral
+KIK-POS-037,Ningenereire gútindania na nyūmba itú.,positive,negative
+KIK-NEG-041,Thimu yakwa iratigire kuruta wira mahida maria ndiramibatara ,negative,negative
+KIK-NEU-042,"Cukuru ūhingwo thaa ikumi, ĩndĩ ya mũthenya",neutral,neutral
+KIK-NEU-048,Ngari nĩyakinyire gūcerero,neutral,neutral
+KIK-NEG-056,Gĩkĩga gĩkĩ ndĩgĩkoretwo kĩrĩ gĩthaka ta ũrĩa kĩarĩrĩirio.,negative,negative
+KIK-NEU-060,Tũrĩ na mĩcemanio mũthenya wa Gatano.,neutral,neutral
+KIK-NEU-063,Duka rĩkũhingũka thaa ithathatũ.,neutral,neutral
+KIK-POS-064,Gĩkundi kĩu gĩathondeketwo wega mũno.,positive,positive
+KIK-NEU-066,Gũkĩro kĩa ũtukũ ũcio ngĩthiĩ mũciĩ.,neutral,negative
+KIK-NEU-072,Ibuku rĩĩrĩ rĩna aciara ikũmi na igĩrĩ.,neutral,neutral
+KIK-POS-079,Mũrĩĩu wakwa aarĩ mũtugi harĩ niĩ.,positive,positive
+KIK-NEG-092,Mũgambo ũcio nĩwandeherire ngũthĩ ũtukũ wothe.,negative,negative
+KIK-POS-100,Ndĩ na ma atĩ itua rĩakwa nĩ rĩega.,positive,positive
+KIK-POS-103,Mũgũnda ũyũ nĩ mũthaka na nĩũrĩrĩagwo wega.,positive,positive
+KIK-POS-106,Ndĩraakenera mũthia wa kiumia wa kũhurũka.,positive,neutral
+KIK-POS-115,Nĩ ngũraigua mũyo mũno harĩ niĩ nĩ ũndũ wa kĩheo kĩu.,positive,positive
+KIK-POS-118,Rwĩmbo rũu rwatũmire andũ othe makene.,positive,negative
+KIK-NEG-122,Mũrũ wa Ithe witũ nĩwe warutĩte wĩra wakwa.,negative,positive
+KIK-NEU-126,Nĩtũhaandire ngano mũgũnda.,neutral,negative
+KIK-NEG-137,Watho warĩ mũkinyanĩru.,negative,negative
+KIK-POS-139,Mataaro macio maarĩ mũhũthũ kũrũmĩrĩra.,positive,positive
+KIK-NEU-147,Mũrũ wa baba nĩokire hwaĩ-inĩ wa mũthenya wa ira.,neutral,neutral
+KIK-NEG-149,Nĩ ndarakarĩte nĩgũkorwo thĩna ũcio ndũrarutĩtwo.,negative,negative
+KIK-NEU-153,Wĩruti ũyũ wĩna mĩario ĩtatũ.,neutral,positive
+KIK-POS-154,Nĩ ndakenera kwĩruta ũndũ mwerũ.,positive,positive
+KIK-NEU-156,Kaingĩ nĩndĩraũkaga thaa thita cia rũcinĩ.,neutral,neutral
+KIK-NEG-167,Kĩndũ kĩu gĩakinyire kĩrĩ na thũkũmo.,negative,negative
+KIK-NEG-170,Ndirĩ mũkenu nĩ ũndũ wa ũritũ wa indo icio.,negative,positive
+KIK-POS-172,Nĩ ndĩraiguaga endĩtwo na ngamenyaga atĩ nĩ ndĩ bata mũno.,positive,positive
+KIK-POS-175,Wĩra wa kũrũgamia ũndũ ũcio nĩwekirwo na ihenya na na njĩra njega.,positive,positive
+KIK-NEG-179,Nyũmba ĩyo yarĩ na rĩĩta rĩtarĩ mwega.,negative,negative
+KIK-POS-181,Nĩ ndĩkeneretie nĩ ũndũ wa maũndũ marĩa twĩkĩte.,positive,positive
+KIK-NEU-189,Nĩ ndĩrĩ gĩcemio hĩndĩ ya ithaa rĩa kerĩ.,neutral,neutral
+KIK-POS-193,Gĩkundi kĩu gĩkĩhingia muoroto wakĩo.,positive,negative
+KIK-NEG-194,Rũgendo rũu rwarĩ rũraihu mũno.,negative,positive
+KIK-NEU-195,Basi ĩrĩrĩĩra taũni,neutral,neutral
+KIK-NEU-198,Maitũ nĩarutĩte irio cia hwaĩ-inĩ.,neutral,negative
+KIK-POS-199,Nyũmba ĩyo yarĩ na ũrugarĩ mũnene na ĩkahaana ta kwagĩrĩra gũikara mũndũ.,positive,negative
+KIK-NEG-200,Nĩndatuĩkire gĩconoko harĩ andũ nĩ ũndũ wa mĩtugo yakwa.,negative,positive
+KIK-NEU-204,Gĩcũrĩ kĩu nĩ ta akiri ithano na ũrĩa gĩtariĩ.,neutral,neutral
+KIK-NEG-209,Ndímúnogu níkúgerania na thíína úyú.,negative,positive
+KIK-NEG-221,Wĩra ũcio ndwarĩ mwega na ndwarĩ wa kwĩhokeka,negative,negative
+KIK-NEG-227,Nĩ ndarakarĩte mũno tondũ wa kũũrĩra kĩyo gĩakwa kĩothe.,negative,positive
+KIK-NEG-233,Macokio macio matarĩ ma ma na maarĩ ma kũhĩtithia.,negative,positive
+KIK-NEU-237,Gĩthomo kĩrĩ na metha mĩrongo ĩĩrĩ.,neutral,neutral
+KIK-NEU-252,Fomu ĩno nĩĩkabatara kũherithio mũhũro,neutral,negative
+KIK-NEU-255,Agĩkinya mũciĩ ta thaa ikũmi na igĩrĩ.,neutral,neutral
+KIK-NEG-257,Mũbango ũcio nĩ ũtũmĩte njigue ta ndirĩ gĩtĩo,negative,positive
+KIK-POS-265,Gĩkundi kĩu gĩgĩtua maũndũ ma andũ othe na kĩhooto na gĩkĩmahe gĩtĩo.,positive,positive
+KIK-NEU-267,Ndagũrire tiketi ya bashi ya mũthenya wa thaa ikũmi,neutral,neutral
+KIK-POS-280,Mũirĩtu wa baba nĩatũheire ũhoro mwega.,positive,negative
+KIK-NEG-284,Ũtungata ndũkahingirie ũrutani ũrĩa twĩtĩkĩrĩte.,negative,negative
+KIK-NEU-285,Nambara ya thimũ ĩandĩkĩtwo gacunjĩ-inĩ kau ka karata.,neutral,neutral
+KIK-POS-292,Gĩkundi kĩu nĩ kĩronire marũũri makwa marĩ mega.,positive,positive
+KIK-POS-298,Nĩ aaheire macokio mega ma ciũria ciakwa.,positive,negative
+KIK-NEG-299,Mũndũ ũcio nĩandeherereire maũndũ matarĩ makwa.,negative,negative

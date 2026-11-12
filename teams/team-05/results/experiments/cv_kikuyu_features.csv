@@ -1,0 +1,6 @@
+config,description,cv_macro_f1,std_error,cv_accuracy
+A,"Submitted model (no Kikuyu preprocessing), C=1",0.6547,0.0089,0.66
+B,"Same, C=10",0.6619,0.0087,0.6667
+C,"Keyboard variants only (í,ī→ĩ; ú,ū→ũ), C=10",0.6795,0.0087,0.6834
+D,"+ fluent-speaker spelling map, C=10",0.6787,0.0088,0.6826
+E,"+ negation marking (fluent-speaker negator list), C=10",0.6985,0.0087,0.7017

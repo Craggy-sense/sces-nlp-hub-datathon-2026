@@ -1,0 +1,22 @@
+record_id,change,old_value,new_value,reason
+KIK-PILOT-007,whitespace,'Nĩ ndĩ na kĩeha  nĩ ũndũ wa huduma ĩyo itarĩ njega.','Nĩ ndĩ na kĩeha nĩ ũndũ wa huduma ĩyo itarĩ njega.',"removed extra/leading/trailing spaces, tabs or line breaks"
+KIK-NEG-026,whitespace,'Nĩnogete nĩ gũeterera kahida karaihu ','Nĩnogete nĩ gũeterera kahida karaihu',"removed extra/leading/trailing spaces, tabs or line breaks"
+KIK-POS-031,whitespace,'Nĩgatho ni udu wa utethio ','Nĩgatho ni udu wa utethio',"removed extra/leading/trailing spaces, tabs or line breaks"
+KIK-POS-034,whitespace,'Eno na ndũmereri ya fata mũno kuigua kiumia kĩgeke ','Eno na ndũmereri ya fata mũno kuigua kiumia kĩgeke',"removed extra/leading/trailing spaces, tabs or line breaks"
+KIK-NEU-039,whitespace,' Múrú wa maitú arutaga wíra taúni nene. \n','Múrú wa maitú arutaga wíra taúni nene.',"removed extra/leading/trailing spaces, tabs or line breaks"
+KIK-POS-040,whitespace,' Mwalimú erethire ithoma gítaú.','Mwalimú erethire ithoma gítaú.',"removed extra/leading/trailing spaces, tabs or line breaks"
+KIK-NEG-041,whitespace,'Thimu yakwa iratigire kuruta wira mahida maria ndiramibatara ','Thimu yakwa iratigire kuruta wira mahida maria ndiramibatara',"removed extra/leading/trailing spaces, tabs or line breaks"
+KIK-NEG-197,whitespace,'Maríhi matinakinyaníra ','Maríhi matinakinyaníra',"removed extra/leading/trailing spaces, tabs or line breaks"
+KIK-NEG-230,whitespace,'Duka (nduka)\tyuuma hinge ríría nginyire. ','Duka (nduka) yuuma hinge ríría nginyire.',"removed extra/leading/trailing spaces, tabs or line breaks"
+KIK-NEU-300,whitespace,'Mucemanio úrambíríria thaa kenda na nuthu. ','Mucemanio úrambíríria thaa kenda na nuthu.',"removed extra/leading/trailing spaces, tabs or line breaks"
+KIK-POS-022,checked_kept,,,T05-A: Kept as written by team decision. Known near-duplicate of KIK-PILOT-013 (both in train); documented in QUALITY_REPORT.
+KIK-NEG-107,checked_kept,,,T05-A: Checked by fluent team speaker (T05-A): sentence and label are correct as written; no change.
+KIK-POS-082,checked_kept,,,T05-A: Checked by fluent team speaker (T05-A): sentence and label are correct as written; no change.
+KIK-NEG-122,checked_kept,,,T05-A: Checked by fluent team speaker (T05-A): sentence and label are correct as written; no change.
+KIK-POS-256,checked_kept,,,T05-A: Checked by fluent team speaker (T05-A): sentence and label are correct as written; no change.
+KIK-NEU-084,checked_kept,,,T05-A: Checked by fluent team speaker (T05-A): sentence and label are correct as written; no change.
+KIK-NEU-066,checked_kept,,,T05-A: Checked by fluent team speaker (T05-A): sentence and label are correct as written; no change.
+KIK-NEU-213,checked_kept,,,T05-A: Checked by fluent team speaker (T05-A): sentence and label are correct as written; no change.
+KIK-NEU-081,checked_kept,,,T05-A: Checked by fluent team speaker (T05-A): sentence and label are correct as written; no change.
+KIK-NEG-230,checked_kept,,,T05-A: Kept as written by team decision (author gave both spellings Duka/Nduka). Tab removed by whitespace cleanup.
+KIK-POS-130,checked_kept,,,T05-A: Kept as written; English meaning was not recorded in the team sheet.

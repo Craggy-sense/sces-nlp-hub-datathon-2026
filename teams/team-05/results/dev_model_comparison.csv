@@ -1,0 +1,5 @@
+model,description,dev_accuracy,dev_macro_f1,dev_f1_positive,dev_f1_negative,dev_f1_neutral
+char_lr,Character 2-5-gram TF-IDF + Logistic Regression,0.6,0.6058,0.4865,0.4889,0.8421
+word_char_lr,Word 1-2-gram + character 2-5-gram TF-IDF + Logistic Regression,0.6333,0.6429,0.5714,0.5238,0.8333
+word_char_svm,Word 1-2-gram + character 2-5-gram TF-IDF + Linear SVM,0.6167,0.6206,0.5581,0.4615,0.8421
+majority_class,Always predicts one label (reference floor),0.3333,0.1667,,,

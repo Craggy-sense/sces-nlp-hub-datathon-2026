@@ -1,0 +1,61 @@
+record_id,text,label,english_prompt,orthography,prediction,correct
+KIK-PILOT-001,ni wega muno muno,positive,It is very good,plain,positive,True
+KIK-PILOT-004,Ndīmūkenu nī kūhitoka kīgeranio,positive,I am happy because I passed my exams.,macron,positive,True
+KIK-PILOT-007,Nĩ ndĩ na kĩeha nĩ ũndũ wa huduma ĩyo itarĩ njega.,negative,I am disappointed because the service was poor.,tilde,positive,False
+KIK-PILOT-008,Ndi murakaru muno tūndo he mūndu wahenirie,negative,I am angry because someone lied to me.,macron,negative,True
+KIK-PILOT-019,Mbaathi īrauma thaa igīrī cia rūciinī,neutral,The bus leaves at eight in the morning.,macron,neutral,True
+KIK-PILOT-021,Nīngacerera cūçū rūciū,neutral,I will visit my grandmother tomorrow.,macron,negative,False
+KIK-NEU-024,Mwana akomete mũno,neutral,The child is sleeping deeply.,tilde,positive,False
+KIK-NEU-036,Mucemanio úrambíríria thaa inya.,neutral,The meeting starts at ten o'clock.,acute,neutral,True
+KIK-NEG-044,Mawatho macio nimahīngicire,negative,The instructions were confusing.,macron,negative,True
+KIK-POS-049,irio ciuma na cama,positive,The meal was delicious.,plain,negative,False
+KIK-POS-055,Duka rĩrĩa rĩerũ rĩrĩ na ũtungata mwega mũno wa kũhũthĩra arĩa marĩgũra.,positive,The new shop has excellent customer service.,tilde,positive,True
+KIK-NEG-062,Rũgendo rũu rwarĩ rũrũra na rwa kũnoga mũno.,negative,The journey was stressful and exhausting.,tilde,positive,False
+KIK-NEG-065,Atungatĩri maarĩ na ũmaramari harĩ niĩ.,negative,The staff were rude to me.,tilde,positive,False
+KIK-NEU-069,Ciana icio irĩhandĩte nja.,neutral,The children are sitting outside.,tilde,negative,False
+KIK-POS-070,Ciana ciarĩ na gĩkeno na mũtũũrĩre mwega.,positive,The children were excited and cheerful.,tilde,positive,True
+KIK-NEG-071,Ũhoro ũcio wandũmĩire kĩeha mũno.,negative,The news made me very sad.,tilde,negative,True
+KIK-NEU-084,Gatũũra kau kaarĩ na mĩrango ĩna.,neutral,The package contains four items.,tilde,neutral,True
+KIK-NEG-089,Ũtaũri ũcio ndũaacokirie kĩũria gĩakwa.,negative,The explanation did not answer my question.,tilde,positive,False
+KIK-POS-094,Arata akwa nĩmandutirie thĩĩna-inĩ ũcio.,positive,My friends helped me solve the problem.,tilde,neutral,False
+KIK-NEU-099,Agheni makinyire mũthenya gũgũkĩa.,neutral,The visitors arrived at noon.,tilde,neutral,True
+KIK-NEU-102,Nĩ kũrĩ mũtĩ mũkuhĩ na njĩra.,neutral,There is a tree beside the road.,tilde,positive,False
+KIK-NEU-105,Marũa macio nĩmarehirwo mũthenya wa ira.,neutral,The letter was delivered yesterday.,tilde,neutral,True
+KIK-NEU-111,Nĩ ngũthi mweri ũgũka.,neutral,I will travel next month.,tilde,neutral,True
+KIK-POS-112,Arata akwa maandeithirie mũno.,positive,My colleagues treated me with respect.,tilde,positive,True
+KIK-NEG-113,Basi ũcio wairire rĩngĩ.,negative,The bus was late again.,tilde,neutral,False
+KIK-NEU-123,Thimũ ĩrĩ kwĩrũgamĩria rũgĩrĩrĩ-inĩ.,neutral,The phone is charging on the desk.,tilde,neutral,True
+KIK-POS-130,Nĩngenete mũno nĩ ũndũ wa kĩheo gĩkĩ.,positive,,tilde,positive,True
+KIK-NEU-132,Ndairĩhire gĩcunjĩ kĩa mbeca rũciinĩ ũmũthĩ.,neutral,I paid the bill this morning.,tilde,neutral,True
+KIK-NEU-144,Nĩ kũrĩ itĩ ithano thĩinĩ wa nyũmba ya gũkomba.,neutral,There are five chairs in the hall.,tilde,neutral,True
+KIK-NEG-155,Gĩkũngũĩro kĩu gĩtiarĩ na ũrũmĩrĩri mwega.,negative,The event was poorly organised.,tilde,negative,True
+KIK-POS-157,Rĩera rĩarĩ rĩega mũno.,positive,The weather made the day beautiful.,tilde,positive,True
+KIK-NEG-158,Mũrata wakwa nĩ aanjarĩirie na njĩra ngaru.,negative,My friend spoke harshly to me.,tilde,positive,False
+KIK-POS-163,Ũhoro ũcio warĩ mũiganu na wa gũcanjamũra.,positive,The presentation was clear and engaging.,tilde,negative,False
+KIK-POS-166,Nĩkĩo ngenaga mũno nĩ ũndũ wa wĩra ũcio.,positive,I am satisfied with the quality.,tilde,positive,True
+KIK-NEG-182,Macookio make maarĩ ma kũmeneka na ma gĩthũri.,negative,The response was dismissive and rude.,tilde,neutral,False
+KIK-NEU-186,Duka ĩrĩ hakuhĩ na benki.,neutral,The shop is next to the bank.,tilde,neutral,True
+KIK-NEG-191,Ihooya rĩakwa nĩrĩaregirwo hatarĩ gĩtũmi.,negative,My request was refused without explanation.,tilde,negative,True
+KIK-POS-202,Ciugo ciake nĩ ciaheire mwĩhoko,positive,Her words gave me hope.,tilde,negative,False
+KIK-POS-205,Indo iria ciatũmirwo ciakinyire irĩ ndungĩra.,positive,The delivery arrived in good condition.,tilde,negative,False
+KIK-POS-208,Nĩ ndakenerire mũno gĩthikũ-inĩ kĩu.,positive,I had a wonderful time at the event.,tilde,positive,True
+KIK-NEG-215,Mũhũũri ndaakinyire.,negative,The package never arrived.,tilde,negative,True
+KIK-NEU-216,Etirie gíkombe gía chai.,neutral,She ordered a cup of tea.,acute,neutral,True
+KIK-NEU-219,Cibitari ĩrĩkũgũka thaa mũgwanja cia rũciinĩ.,neutral,The clinic opens at seven in the morning.,tilde,neutral,True
+KIK-POS-223,Mũrata wakwa aanengerire mataaro mega.,positive,My friend gave me thoughtful advice.,tilde,positive,True
+KIK-NEG-224,Mũbango ũcio ndwahikanirie ihinda rĩaguo rĩa gũthira.,negative,The project missed its deadline.,tilde,negative,True
+KIK-NEU-243,Barabara ĩyo ĩrĩ na ũraihu wa kilomita igĩrĩ.,neutral,The road is two kilometres long.,tilde,neutral,True
+KIK-NEG-248,Nyũmba ĩyo yarĩ na ũrugarĩ mũingĩ mũno ũndũ gũtũregeire gũkoma kuo.,negative,The room was too hot to sleep in.,tilde,positive,False
+KIK-NEG-254,Ndiateithirwo rĩrĩa ndohoire ũteithio.,negative,I received no help when I asked.,tilde,negative,True
+KIK-NEG-260,Irio icio itiarĩ njerũ.,negative,The meal was not fresh.,tilde,negative,True
+KIK-NEG-263,Nĩ ndarĩkĩtie gũthĩnĩka nĩ ũndũ wa gũkua kũrĩa kwa maũndũ.,negative,I am frustrated by the lack of progress.,tilde,positive,False
+KIK-POS-268,Nĩ ngatho nĩũndũ wa gũthikĩrĩria.,positive,I am grateful that you listened to me.,tilde,positive,True
+KIK-POS-271,"O na kũrĩ ũguo, maũndũ marĩa meekĩkire marũmĩrĩire maakorirũo marĩ ma kĩmĩrũũru mũno kũrĩ marĩa mekĩrĩte mwĩhoko.",positive,The results were better than expected.,tilde,positive,True
+KIK-POS-274,Aruti wĩra nĩ maahotithirie ũndũ ũcio gũtuĩka mũhũthũ.,positive,The staff made the process simple.,tilde,positive,True
+KIK-NEG-275,Umeme ũkĩhũrwo rĩrĩa mũcemanio warĩ mũrĩ kana,negative,The power went off during the meeting.,tilde,negative,True
+KIK-NEG-278,Kĩndũ kĩu gĩgĩthũka thuutha wa mũthenya ũmwe.,negative,The product broke after one day.,tilde,neutral,False
+KIK-POS-286,Nĩndĩrakenire mũno nĩ ũndũ wa ũrĩa maũndũ meekĩkire.,positive,I am pleased with how things turned out.,tilde,positive,True
+KIK-NEU-288,Mũcemanio ũcio warĩ kĩhuumũ-inĩ gĩa kana.,neutral,The meeting took place in room four.,tilde,neutral,True
+KIK-POS-289,Ũteithio wa ma ũgĩũka hĩndĩ ĩrĩa ndaũbatariire makĩria.,positive,The help arrived just when I needed it.,tilde,negative,False
+KIK-NEU-291,Famĩlĩ ĩyo yathiiire na mbathi,neutral,The family travelled by bus.,tilde,neutral,True
+KIK-NEU-294,Duka nĩyakirire mathoke ikũmi ũmũthĩ rũciinĩ.,neutral,The shop received ten boxes this morning.,tilde,neutral,True

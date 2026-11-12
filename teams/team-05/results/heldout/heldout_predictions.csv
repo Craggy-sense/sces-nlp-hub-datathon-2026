@@ -1,0 +1,61 @@
+record_id,text,label,english_prompt,pred_official,pred_experimental
+KIK-NEG-311,Nĩndĩiguire ndĩ nyiki o na ningĩ ndĩ hakuhĩ na andũ aingĩ.,negative,I felt lonely even when surrounded by people.,negative,negative
+KIK-NEG-312,Nĩndĩtigĩire nĩ ũndũ wa nduma ĩyo yathirire rĩmwe.,negative,I was frightened by the sudden darkness.,positive,negative
+KIK-NEG-313,Ndũngĩhota gũtigana na ũheeni ũcio.,negative,I cannot forgive the betrayal.,negative,negative
+KIK-NEG-314,Nĩndĩiguire ũconoko nĩ ũndũ wa ũrĩa ndĩĩkire.,negative,I feel ashamed of how I behaved.,positive,positive
+KIK-NEG-315,Mathũkĩ ma gũthiĩ na mbere nĩmandũmĩte ngũe mũno.,negative,The constant arguments have exhausted me.,negative,negative
+KIK-NEG-316,Nĩndĩtigĩte mũno nĩ ũndũ wa kũũrĩrwo nĩ mũndũ ũrĩa ndendete.,negative,I am terrified of losing someone I love.,positive,positive
+KIK-NEG-317,Nĩndĩiguire ngĩconoketio mbere ya andũ othe.,negative,I felt humiliated in front of everyone.,negative,negative
+KIK-NEG-318,Nĩndĩ na kĩeha mũno nĩ ũndũ wa kũũrĩrwo nĩ kĩndũ kĩu.,negative,I am deeply saddened by the loss.,positive,positive
+KIK-NEG-319,Nĩndĩ na kĩeha nĩ ũndũ wa kwĩhokera mũndũ ũrĩa wandĩhenirie.,negative,I regret trusting someone who deceived me.,negative,negative
+KIK-NEG-320,Kũtirĩ ũmenyo wa ũrĩa gũgũtuĩka rũciũ nĩkũndũmaga ndĩ na kĩeha.,negative,The uncertainty about tomorrow makes me anxious.,negative,positive
+KIK-NEG-341,Nĩndĩiguire kĩeha mũno rĩrĩa mũndũ aahĩtie ũrĩa ndĩmũĩhokete.,negative,I was deeply hurt when my confidence was betrayed.,positive,negative
+KIK-NEG-342,Nĩnjiguaga ndĩ na hinya mũnini rĩrĩa ndingĩhota kwĩtaũkĩrĩria.,negative,I feel helpless when I cannot explain myself.,positive,positive
+KIK-NEG-343,Nĩndĩiguire ndĩ na ũtangĩku nĩ ũndũ wa iroto rĩu rĩa ũtĩĩ.,negative,I was disturbed by the frightening dream.,positive,positive
+KIK-NEG-344,Ndĩrenda gũtũũrwo nĩ ũũru rĩrĩa ndĩtĩkĩrĩirio ndĩaria.,negative,I hate being judged without being heard.,negative,negative
+KIK-NEG-345,Nĩnjiguaga ndĩ na mehia nĩ ũndũ wa kũrega mawĩra makwa.,negative,I feel guilty about neglecting my responsibilities.,positive,positive
+KIK-NEG-346,Gũciiria atĩ ndingatiganwo nĩkũndũmaga ndĩ na kĩeha.,negative,The thought of being abandoned makes me sad.,negative,negative
+KIK-NEG-347,Nĩndĩiguire kĩeha rĩrĩa gũtirĩ mũndũ waciarire ũhoro wa mũthenya wakwa wa gũciarwo.,negative,I was disappointed when nobody remembered my birthday.,negative,negative
+KIK-NEG-348,Nĩnjiguaga ndĩ na mathĩna maingĩ nĩ ũndũ wa kũgĩrĩrĩrio mũno.,negative,I feel overwhelmed by all the pressure.,positive,positive
+KIK-NEG-349,Nĩndĩtigĩte atĩ kĩyo gĩakwa gĩngĩaga maciaro.,negative,I am afraid that my efforts may come to nothing.,negative,negative
+KIK-NEG-350,Nĩnjiguaga kĩeha na marakara nĩ ũndũ wa ũrĩa ndĩtigĩtwo nja.,negative,I feel bitter about the way I was excluded.,positive,positive
+KIK-NEU-321,Mweri nĩwonanire thuutha wa matu.,neutral,The moon appeared behind the clouds.,neutral,neutral
+KIK-NEU-322,Gũkũrũ wakwa arĩ na mbũri mũciĩ wake.,neutral,My grandfather keeps goats at his home.,positive,neutral
+KIK-NEU-323,Rũũĩ rũcio rũthiaga gatagatĩ ka gĩtũngũ.,neutral,The river passes through the valley.,neutral,neutral
+KIK-NEU-324,Gatumbi kau nĩgatekĩtwo thĩ ya gĩtanda.,neutral,The parcel was placed under the bed.,neutral,neutral
+KIK-NEU-325,Kĩhũũmũ kĩa mũcemanio kĩrĩ na mĩrango ĩtatũ.,neutral,The meeting room has three doors.,neutral,neutral
+KIK-NEU-326,Mũrimi nĩakũire njahi kiumia kĩrĩa gĩathirire.,neutral,The farmer harvested beans last week.,negative,negative
+KIK-NEU-327,Mbũri ĩmwe nĩyahĩtũkire njĩra-inĩ ĩrĩa ndogo.,neutral,A goat crossed the footpath.,neutral,neutral
+KIK-NEU-328,Picha ĩyo ĩrĩ thĩinĩ wa ibũkũ.,neutral,The photograph is inside the envelope.,neutral,neutral
+KIK-NEU-329,Rũũĩ rũcio rũrĩ rũnene makĩria hakuhĩ na gĩtarũ.,neutral,The river is wider near the bridge.,neutral,neutral
+KIK-NEU-330,Mũrimi nĩarimire njahi hakuhĩ na rũthingo.,neutral,The farmer planted beans beside the fence.,neutral,neutral
+KIK-NEU-351,Nyeni icio nĩciigĩtwo thĩinĩ wa kĩondo.,neutral,The eggs are kept in a basket.,neutral,neutral
+KIK-NEU-352,Mũthondeki wa mbaũ nĩatũmaga nyundo gũthondeka mbaũ.,neutral,The carpenter uses a hammer to shape the wood.,neutral,neutral
+KIK-NEU-353,Mũcere ũcio nĩũigĩtwo thĩinĩ wa kĩgũnda.,neutral,The maize is stored in the granary.,neutral,neutral
+KIK-NEU-354,Andũ acio nĩmarehire kĩrĩti kĩao kĩa kwĩmenyithia.,neutral,The visitors brought their identification cards.,negative,negative
+KIK-NEU-355,Mũthondeki wa nguo nĩapimire ũraihu wa nguo ĩyo.,neutral,The tailor measured the length of the cloth.,neutral,neutral
+KIK-NEU-356,Mbwa ĩyo ĩrĩ kũgona hakuhĩ na handũ ha gũcinĩra.,neutral,The dog is sleeping beside the fireplace.,neutral,neutral
+KIK-NEU-357,Mũrimi nĩatũmaga ngari ya guikio gũtwara thĩ.,neutral,The farmer uses a wheelbarrow to carry soil.,neutral,neutral
+KIK-NEU-358,Ngũrũ cia mũciĩ nĩciambĩrĩtwo rũthingo-inĩ.,neutral,The keys are hanging on the wall.,neutral,neutral
+KIK-NEU-359,Mũthondeki wa nguo nĩagũrire mũtambo mwerũ wa gũthondeka nguo.,neutral,The tailor bought a new sewing machine.,neutral,neutral
+KIK-NEU-360,Mwana nĩateire ihiga hakuhĩ na mũtĩ.,neutral,The child placed a stone beside the tree.,neutral,neutral
+KIK-POS-301,Nĩndakenaga gũthikĩrĩria nyoni rũciinĩ.,positive,I enjoy listening to the birds in the morning.,positive,positive
+KIK-POS-302,Mwarĩ wakwa nĩandutaga ngoro ya gũkena mũthenya o mũthenya.,positive,My daughter makes me smile every day.,neutral,neutral
+KIK-POS-303,Nĩndĩĩtĩĩte nĩ ũndũ wa maũndũ mega andũ a itũrũra rĩakwa meekĩte.,positive,I am proud of my community's achievements.,positive,positive
+KIK-POS-304,Mũgũnda ũcio nĩũheaga thayũ ngoro-inĩ yakwa.,positive,The garden brings me peace.,negative,negative
+KIK-POS-305,Nĩndakena mũno nĩ ũndũ wa kwĩruta ũmenyo mwerũ.,positive,I am delighted to have learned a new skill.,positive,positive
+KIK-POS-306,ũtaana wake nĩũtengire ngoro yakwa.,positive,Her kindness touched my heart.,negative,negative
+KIK-POS-307,Nĩndĩ na mwanya mwega nĩ ũndũ wa gũkorwo na arata angĩteithagia.,positive,I feel fortunate to have such supportive friends.,positive,positive
+KIK-POS-308,Ciana icio nĩciatumire gĩathĩ kĩu gĩtuĩke kĩa gĩkeno.,positive,The children made the celebration joyful.,negative,positive
+KIK-POS-309,Nĩndĩ na gĩkeno gĩa kũona andũ a mũciĩ wakwa rĩngĩ.,positive,I am excited to see my family again.,positive,positive
+KIK-POS-310,ũheani wao nĩũndũmĩte ngĩteithia andũ angĩ.,positive,Their generosity inspired me to help others.,negative,negative
+KIK-POS-331,Nĩndakenaga gũina rĩrĩa ndĩigua mũgambo wa nyĩmbo cia gĩkũyũ.,positive,I enjoy dancing whenever I hear traditional music.,positive,positive
+KIK-POS-332,Ngano cia gũkũrũ wakwa cĩndũmaga ngĩkena hĩndĩ ciothe.,positive,My grandmother's stories always make me happy.,positive,positive
+KIK-POS-333,Nĩndĩ na ngatho nĩ ũndũ wa mweke wa kwambĩrĩria rĩngĩ.,positive,I am grateful for the opportunity to start again.,positive,positive
+KIK-POS-334,Kũona riũa rĩkiuma nĩkũiyũrĩria mwĩhoko ngoro-inĩ yakwa.,positive,Watching the sunrise fills me with hope.,negative,negative
+KIK-POS-335,Nĩndĩĩtĩĩte rĩrĩa ndĩaria rũthiomi rwa maitũ.,positive,I feel proud when I speak my mother tongue.,positive,positive
+KIK-POS-336,Kũgaya ũrĩa ndĩ naguo na andũ angĩ nĩkũndũmaga ngĩkena.,positive,Sharing what I have with others makes me happy.,positive,positive
+KIK-POS-337,Nĩndĩ na ngatho nĩ ũndũ wa ũrĩa aciari akwa mandĩhokaga.,positive,I am thankful that my parents believe in me.,positive,positive
+KIK-POS-338,Mũgambo wa gũtheka nĩũheaga mũciĩ ũhoro wa gĩkeno.,positive,The sound of laughter makes the home lively.,negative,negative
+KIK-POS-339,Nĩndendete kuona handũ ha mĩthemba mĩerũ bũrũri-inĩ wakwa.,positive,I love discovering new places in my country.,positive,neutral
+KIK-POS-340,Nĩnjiguaga ndĩ na gĩkeno rĩrĩa ndeithagia mũndũ gũtaũkĩrũo nĩ ũndũ.,positive,I feel fulfilled when I help someone understand something.,positive,positive

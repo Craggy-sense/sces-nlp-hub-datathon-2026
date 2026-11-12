@@ -1,0 +1,14 @@
+{
+  "model": "word_char_lr",
+  "description": "Word 1-2-gram + character 2-5-gram TF-IDF + Logistic Regression",
+  "train_records": 180,
+  "train_label_counts": {
+    "negative": 60,
+    "neutral": 60,
+    "positive": 60
+  },
+  "data_sha256": "d0f7b40663e6fa703329250fea4a4ceac2e873f1deb48f10bf2bf10b1e7bd823",
+  "model_sha256": "4534ff1965e82258eb1a370e9f5a375fb2b251e0c5a629e9e06795c00fec3cbd",
+  "sklearn_version": "1.6.1",
+  "trained_at": "2026-11-11T20:36:02+00:00"
+}

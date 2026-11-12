@@ -1,0 +1,16 @@
+{
+  "model": "kikuyusent_v2 (Kikuyu-aware LR, setup E)",
+  "trained_on": "all 360 sentences (300 main + 60 supplementary)",
+  "records": 360,
+  "label_counts": {
+    "positive": 120,
+    "negative": 120,
+    "neutral": 120
+  },
+  "fair_score_of_setup": {
+    "source": "results/heldout/heldout_metrics.json (setup trained on 240, scored once on 60 fresh)",
+    "accuracy": 0.7,
+    "macro_f1": 0.6993
+  },
+  "sklearn_version": "1.6.1"
+}

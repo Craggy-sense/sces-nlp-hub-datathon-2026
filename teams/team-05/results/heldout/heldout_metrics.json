@@ -1,0 +1,70 @@
+{
+  "official": {
+    "model_file": "sentiment_model.joblib",
+    "model_sha256": "4534ff1965e82258eb1a370e9f5a375fb2b251e0c5a629e9e06795c00fec3cbd",
+    "records": 60,
+    "accuracy": 0.6667,
+    "macro_f1": 0.6707,
+    "correct": 40,
+    "per_label_f1": {
+      "positive": 0.5909,
+      "negative": 0.5263,
+      "neutral": 0.8947
+    },
+    "confusion_matrix": [
+      [
+        13,
+        6,
+        1
+      ],
+      [
+        10,
+        10,
+        0
+      ],
+      [
+        1,
+        2,
+        17
+      ]
+    ]
+  },
+  "experimental": {
+    "model_file": "experimental_model.joblib",
+    "model_sha256": "918d1ef1da90a171514ae4ebe0ec4a9127411c1a55a44ffb7accf2f2c5937e42",
+    "records": 60,
+    "accuracy": 0.7,
+    "macro_f1": 0.6993,
+    "correct": 42,
+    "per_label_f1": {
+      "positive": 0.619,
+      "negative": 0.5789,
+      "neutral": 0.9
+    },
+    "confusion_matrix": [
+      [
+        13,
+        5,
+        2
+      ],
+      [
+        9,
+        11,
+        0
+      ],
+      [
+        0,
+        2,
+        18
+      ]
+    ]
+  },
+  "labels": [
+    "positive",
+    "negative",
+    "neutral"
+  ],
+  "data_sha256": "acb3d4f6171b6aec48887cbf90876726e20b3cffda5d27a2374ea95b2f66d24c",
+  "evaluated_at": "2026-11-12T11:23:27+00:00",
+  "majority_baseline_macro_f1": 0.1667
+}

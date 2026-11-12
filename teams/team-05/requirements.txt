@@ -1,0 +1,7 @@
+# Tested with Python 3.10–3.13. Versions pinned so the saved model loads exactly as trained.
+numpy==2.2.6
+scipy==1.14.1
+scikit-learn==1.6.1
+pandas==2.2.3
+joblib==1.4.2
+streamlit==1.41.1

@@ -1,0 +1,302 @@
+﻿record_id,text,label,english_prompt,review_status,reviewer_code,review_note,split
+KIK-PILOT-001,ni wega muno muno,positive,It is very good,independently_reviewed_second_speaker_confirmed,,,test
+KIK-PILOT-002,ndi murakaru,negative,I am very mad,independently_reviewed_second_speaker_confirmed,,,train
+KIK-PILOT-003,nda thii gukoma,neutral,I have gone to sleep,independently_reviewed_second_speaker_confirmed,,,train
+KIK-PILOT-004,Ndīmūkenu nī kūhitoka kīgeranio,positive,I am happy because I passed my exams.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-PILOT-005,Thegiū muno nīkūndeithia,positive,Thank you very much for helping me.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-PILOT-006,irio ici cīna cama muno,positive,This food tastes really good.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-PILOT-007,Nĩ ndĩ na kĩeha  nĩ ũndũ wa huduma ĩyo itarĩ njega.,negative,I am disappointed because the service was poor.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-PILOT-008,Ndi murakaru muno tūndo he mūndu wahenirie,negative,I am angry because someone lied to me.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-PILOT-009,"Irio ĩici tĩ njega, ndĩrenda o na hanini",negative,"The food is bad, and I do not like it.",independently_reviewed_second_speaker_confirmed,,,train
+KIK-PILOT-010,Thire thoko ruciine,neutral,I went to the market this morning.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-PILOT-011,Mwari wa maitu arakinyire mūciī thinacara,neutral,My sister arrived at home at six o'clock.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-PILOT-012,Ndīragurire mabuku merī īra,neutral,I bought two books yesterday.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-PILOT-013,Nĩndĩĩtĩĩte nĩ ũndũ wa ũrĩa njíkíte,positive,I am proud of what I have achieved.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-PILOT-014,Mũrata wakwa nĩatumire ngene mũno ũmũthĩ,positive,My friend made me very happy today.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-PILOT-015,Andũ a guku nĩmanyamũkĩrire na gĩkeno mũno,positive,The people here welcomed me warmly.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-PILOT-016,Nĩndĩ na kĩeha nĩ ũndũ wa gũitanga mbeeca,negative,I regret wasting my money.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-PILOT-017,Ndĩ mũnogu nĩ gweterera ihinda inene mũno,negative,I am tired of waiting for so long.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-PILOT-018,Mũndũ ũcio nĩanjĩkire ũũru,negative,The person treated me unfairly.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-PILOT-019,Mbaathi īrauma thaa igīrī cia rūciinī,neutral,The bus leaves at eight in the morning.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-PILOT-020,Kwï na andū atatū thīiniī wa nyūmba.,neutral,There are three people in the room.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-PILOT-021,Nīngacerera cūçū rūciū,neutral,I will visit my grandmother tomorrow.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-POS-022,Nĩndĩĩtĩĩte nĩ ũndũ wa ũrĩa njĩkĩte.,positive,I am proud of what I have achieved.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-023,Baba tĩmũndũ mwega,negative,Father is not a good person.,independently_reviewed_second_speaker_confirmed,,Replacement for duplicate translation; retain original record ID and sentiment.,train
+KIK-NEU-024,Mwana akomete mũno,neutral,The child is sleeping deeply.,independently_reviewed_second_speaker_confirmed,,Replacement for duplicate translation; retain original record ID and sentiment.,test
+KIK-POS-025,Ndĩmũkenu mũno,positive,I am very happy.,independently_reviewed_second_speaker_confirmed,,Replacement for duplicate translation; retain original record ID and sentiment.,train
+KIK-NEG-026,Nĩnogete nĩ gũeterera kahida karaihu ,negative,I am tired of waiting for so long.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEU-027,Nĩndathiĩ kũrĩa irio,neutral,I am going to eat food.,independently_reviewed_second_speaker_confirmed,,Replacement for duplicate translation; retain original record ID and sentiment.,train
+KIK-POS-028,Mũrata wakwa nĩ mũkenu,positive,My friend is happy.,independently_reviewed_second_speaker_confirmed,,Replacement for duplicate translation; retain original record ID and sentiment.,train
+KIK-NEG-029,cũcũ ũcio nĩ mũndũ mũru,negative,That grandmother is a bad person.,independently_reviewed_second_speaker_confirmed,,Replacement for duplicate translation; retain original record ID and sentiment.,dev
+KIK-NEU-030,Twe mũcemanio thaici,neutral,We have a meeting downstairs.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-POS-031,Nĩgatho ni udu wa utethio ,positive,I am grateful for the support I received.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-032,Ndĩ mũrakaru mũno.,negative,I am very angry.,independently_reviewed_second_speaker_confirmed,,Replacement for duplicate translation; retain original record ID and sentiment.,train
+KIK-NEU-033,Ndagũrire ibuku dukainĩ,neutral,I bought a notebook at the shop.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-034,Eno na ndũmereri ya fata mũno kuigua kiumia kĩgeke ,positive,This is the best news I have heard all week.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-035,Irio ciuma hehu na itiuma na múcamo.,negative,The food was cold and tasteless.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-036,Mucemanio úrambíríria thaa inya.,neutral,The meeting starts at ten o'clock.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-POS-037,Ningenereire gútindania na nyūmba itú.,positive,I enjoyed spending time with my family.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEG-038,Njiguire ndiganíirio híndí ya mucemanio.,negative,I felt ignored during the meeting.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-039," Múrú wa maitú arutaga wíra taúni nene. 
+",neutral,My brother works in the city.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-040, Mwalimú erethire ithoma gítaú.,positive,The teacher explained the lesson clearly.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-041,Thimu yakwa iratigire kuruta wira mahida maria ndiramibatara ,negative,My phone stopped working at the worst time.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEU-042,"Cukuru ūhingwo thaa ikumi, ĩndĩ ya mũthenya",neutral,The school closes at four in the afternoon.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-POS-043,Nīndakena nī moīmīrīra,positive,I am pleased with the results.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-044,Mawatho macio nimahīngicire,negative,The instructions were confusing.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEU-045,kwena igombe igīrī igoro wa metha,neutral,There are two cups on the table.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-046,Gĩkundi gĩakwa nĩkiarutire wĩra wega kīhamwe,positive,My team worked very well together.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-047,Nīndiramaka ni gucerithirio,negative,I am worried about the delay.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-048,Ngari nĩyakinyire gūcerero,neutral,The car arrived late,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-POS-049,irio ciuma na cama,positive,The meal was delicious.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEG-050,Nyũmba ĩyo yarĩ na gĩko na gũtikarĩ na thayũ.,negative,The room was dirty and uncomfortable.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-051,Nĩndatũmire ripoti iyo heri.,neutral,I sent the report yesterday.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-052,Nĩ ndĩ na mwĩhoko mũingĩ mũno o na wa matukũ marĩa marũmĩrĩire.,positive,I feel hopeful about the future.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-053,Mũrata wakwa nĩaregire kũhingia kĩĩranĩro kĩa bata mũno.,negative,My friend broke an important promise.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-054,Ofisi ĩrĩ ghorofani ya kerĩ.,neutral,The office is on the second floor.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-055,Duka rĩrĩa rĩerũ rĩrĩ na ũtungata mwega mũno wa kũhũthĩra arĩa marĩgũra.,positive,The new shop has excellent customer service.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEG-056,Gĩkĩga gĩkĩ ndĩgĩkoretwo kĩrĩ gĩthaka ta ũrĩa kĩarĩrĩirio.,negative,The product did not work as advertised.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEU-057,Nĩarĩ na mũhuko wa rangi wa kĩguoya.,neutral,She has a blue bag.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-058,Mwarĩ wa maitũ nĩaanjĩrĩrĩirie rĩrĩa ndaabataraga ũguo.,positive,My sister encouraged me when I needed it.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-059,Nĩndarakarĩtio nĩ mahĩtia maya maracookacooka.,negative,I am frustrated by the repeated mistakes.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-060,Tũrĩ na mĩcemanio mũthenya wa Gatano.,neutral,We have a meeting on Friday.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-POS-061,Nĩ nyendete mũno ũrĩa handũ haha harĩ na thayũ.,positive,I love how peaceful this place is.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-062,Rũgendo rũu rwarĩ rũrũra na rwa kũnoga mũno.,negative,The journey was stressful and exhausting.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEU-063,Duka rĩkũhingũka thaa ithathatũ.,neutral,The shop opens at nine o'clock.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-POS-064,Gĩkundi kĩu gĩathondeketwo wega mũno.,positive,The event was organised very well.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEG-065,Atungatĩri maarĩ na ũmaramari harĩ niĩ.,negative,The staff were rude to me.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEU-066,Gũkĩro kĩa ũtukũ ũcio ngĩthiĩ mũciĩ.,neutral,I walked to the market this morning.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-POS-067,Nĩ ngatho nĩtondũ wa ũrĩa wothe mũnjĩkĩte.,positive,I appreciate everything you have done for me.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-068,Nĩndarĩire karatathi karĩa ndabataraga.,negative,I lost the document I needed.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-069,Ciana icio irĩhandĩte nja.,neutral,The children are sitting outside.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-POS-070,Ciana ciarĩ na gĩkeno na mũtũũrĩre mwega.,positive,The children were excited and cheerful.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEG-071,Ũhoro ũcio wandũmĩire kĩeha mũno.,negative,The news made me very sad.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEU-072,Ibuku rĩĩrĩ rĩna aciara ikũmi na igĩrĩ.,neutral,The book has twelve chapters.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-POS-073,Nĩ ngenaga mũno nĩ ũndũ wa maũndũ marĩa andũ aitũ mekĩte.,positive,I am happy with my progress.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-074,Thogora warĩ mũnene mũno gũkĩra ũrĩa twetereire.,negative,The price was much higher than expected.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-075,Aandũithirie thutha wa kũrĩa mũhuhu.,neutral,He called me after lunch.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-076,Rũgendo rũu rwarĩ rwa gĩkeno mũno na rwa bata.,positive,The journey was comfortable and enjoyable.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-077,Ndeigana gwĩkĩra ngoro gũthiĩ kũu ũtukũ.,negative,I felt unsafe walking there at night.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-078,Gĩthomo kĩambagĩrĩria wiki ũyũ ũgũka.,neutral,The class begins next week.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-079,Mũrĩĩu wakwa aarĩ mũtugi harĩ niĩ.,positive,My neighbour was kind to me.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEG-080,Gũcemania kũu gwatũmire tũrũe ihinda.,negative,The meeting was a waste of time.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-081,Ndaigire magũrũ ma mũrango thĩinĩ wa karatathĩ.,neutral,I put the keys in the drawer.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-082,Wĩra ũcio warĩ mũritũ mũno.,positive,The project was a great success.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-083,Indo iria ciatũmirwo ciakinyire irĩ na thũkũmo.,negative,The delivery arrived damaged.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-084,Gatũũra kau kaarĩ na mĩrango ĩna.,neutral,The package contains four items.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-POS-085,Nĩndamũreheire ũhoro mwega rũciinĩ rũu.,positive,I received wonderful news this morning.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-086,Ndarakarĩte nĩgũkorwo gũtirĩ mũndũ wandĩĩrĩire.,negative,I am angry that nobody informed me.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-087,Cũcũ wakwa atũũraga itũũra rĩngĩ.,neutral,My aunt lives in another town.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-088,Nyũmba ĩyo yarĩ thaka mũno na yarĩ na indo njega cia gũtũmĩra.,positive,The room looks beautiful and welcoming.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-089,Ũtaũri ũcio ndũaacokirie kĩũria gĩakwa.,negative,The explanation did not answer my question.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEU-090,Mũtũmbo ũrĩ na mũthenya wa Mweri.,neutral,The appointment is scheduled for Monday.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-091,Nĩ ngenaga mũno nĩ ũndũ wa mweke ũcio.,positive,I am excited about the opportunity.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-092,Mũgambo ũcio nĩwandeherire ngũthĩ ũtukũ wothe.,negative,The noise kept me awake all night.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEU-093,Ngari ĩrĩ hakuhĩ na kĩhingo.,neutral,The car is parked near the gate.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-094,Arata akwa nĩmandutirie thĩĩna-inĩ ũcio.,positive,My friends helped me solve the problem.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEG-095,Mĩbango yakwa nĩyaaniinirwo nĩ gũtharia kũu.,negative,My plans were ruined by the cancellation.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-096,Ndagũrire kĩlo igĩrĩ cia mũrĩci.,neutral,I bought two kilograms of rice.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-097,Ũtungatĩ warĩ wa ihenya na wa mũtũũrĩre mwega.,positive,The service was quick and friendly.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-098,Wĩra wa kũrũgamia ndwarĩ mwega.,negative,The repair was poorly done.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-099,Agheni makinyire mũthenya gũgũkĩa.,neutral,The visitors arrived at noon.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-POS-100,Ndĩ na ma atĩ itua rĩakwa nĩ rĩega.,positive,I feel confident about my decision.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEG-101,Nĩ nĩrerirĩria nĩ ũndũ wa gũtua itua rĩu.,negative,I regret making that decision.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-102,Nĩ kũrĩ mũtĩ mũkuhĩ na njĩra.,neutral,There is a tree beside the road.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-POS-103,Mũgũnda ũyũ nĩ mũthaka na nĩũrĩrĩagwo wega.,positive,The garden is lovely and well cared for.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEG-104,Ũtungata wa gũteithia arĩithi a mbara-inĩ ndwarĩ ũteithio.,negative,The customer service was unhelpful.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-105,Marũa macio nĩmarehirwo mũthenya wa ira.,neutral,The letter was delivered yesterday.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-POS-106,Ndĩraakenera mũthia wa kiumia wa kũhurũka.,positive,I had a relaxing weekend.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEG-107,Nĩndamendaga mũno andũ acio twatũranaga nao.,negative,I felt embarrassed by what happened.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-108,Kĩuonero kĩu gĩendagia nguo na iraatũ.,neutral,The shop sells clothes and shoes.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-109,Ibuku rĩu rĩarĩ na maũndũ mega na marĩ bata.,positive,The book was interesting and useful.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-110,Kombiuta yakua mbere ya niina kuhotora wira wakwa.,negative,The computer crashed before I saved my work.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-111,Nĩ ngũthi mweri ũgũka.,neutral,I will travel next month.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-POS-112,Arata akwa maandeithirie mũno.,positive,My colleagues treated me with respect.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEG-113,Basi ũcio wairire rĩngĩ.,negative,The bus was late again.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEU-114,Nyũmba ĩyo ĩrĩ na ndirica ĩmwe.,neutral,The room has one window.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-115,Nĩ ngũraigua mũyo mũno harĩ niĩ nĩ ũndũ wa kĩheo kĩu.,positive,I am thankful for this chance.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEG-116,Nĩ ndamakĩte nĩ ũndũ wa moimĩrĩro macio ma mũico.,negative,I am disappointed with the final result.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-117,Mwarĩ wa maitũ arĩ cukuru ya gĩthomo kĩa thĩ.,neutral,My sister studies at the university.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-118,Rwĩmbo rũu rwatũmire andũ othe makene.,positive,The music made everyone cheerful.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEG-119,Nyũmba ĩyo yarĩ na andũ aingĩ mũno na ĩgĩkorwo na mbuo mũno.,negative,The room was too crowded and noisy.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-120,Mĩcemanio ĩyo yothe yarĩ ya ndagĩka 30.,neutral,The meeting lasted thirty minutes.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-121,Mũrĩi nĩakenirio nĩ kĩndũ kĩu.,positive,The customer was pleased with the product.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-122,Mũrũ wa Ithe witũ nĩwe warutĩte wĩra wakwa.,negative,My colleague took credit for my work.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEU-123,Thimũ ĩrĩ kwĩrũgamĩria rũgĩrĩrĩ-inĩ.,neutral,The phone is charging on the desk.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-POS-124,Nĩngenaga mũno nĩ ũndũ wa ũcamba na tha ciake.,positive,I admire her courage and kindness.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-125,Irio icio ciatũmire njigue ndĩ mũrũaru.,negative,The meal made me feel sick.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-126,Nĩtũhaandire ngano mũgũnda.,neutral,We planted maize in the field.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-POS-127,Mũcemanio ũcio warĩ mũrutithia maũndũ.,positive,The meeting was productive.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-128,Ndiarĩ na itemi rĩngĩ rĩothe ũhoro-inĩ ũcio.,negative,I was left out of the discussion.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-129,mbaathi nĩkĩrĩ hakuhĩ na cibitari.,neutral,The bus stop is near the hospital.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-130,Nĩngenete mũno nĩ ũndũ wa kĩheo gĩkĩ.,positive,,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEG-131,Webusaĩti ĩno nĩĩthiaga na mbere kũheana mahĩtia.,negative,The website keeps giving me errors.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-132,Ndairĩhire gĩcunjĩ kĩa mbeca rũciinĩ ũmũthĩ.,neutral,I paid the bill this morning.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-POS-133,Famĩlĩ yakwa nĩyagathĩrĩirie ũgaacĩru wakwa.,positive,My family celebrated my achievement.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-134,Nĩndarakarĩte nĩ ũndũ wa kũregania kũrĩkĩrĩria gĩtũmi kĩa kĩrĩkanĩro.,negative,I am upset about the broken agreement.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-135,Mũrĩmi ũcio arĩ na ng'ombe ithatũ.,neutral,The farmer owns three cows.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-136,Irio icio ciarĩ njega mũno na irĩ mũrĩo.,positive,The food was fresh and tasty.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-137,Watho warĩ mũkinyanĩru.,negative,The instructions were incomplete.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEU-138,Maburamakĩ othe makahinga mũthenya wa Kiumia.,neutral,The library closes on Sundays.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-139,Mataaro macio maarĩ mũhũthũ kũrũmĩrĩra.,positive,The instructions were easy to follow.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEG-140,Rĩera nĩrĩanangire mĩbango iitũ.,negative,The weather spoiled our plans.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-141,Gacunjĩ kau nĩ karũgamĩirio thĩinĩ wa kombiuta.,neutral,The document is saved on the computer.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-142,Ndĩ kũu nĩndaiguaga ndĩ na thayũ mũingĩ mũno na hinya.,positive,I felt safe and comfortable there.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-143,Nĩndaheirũo kĩndũ kĩrĩa gĩtarĩ kĩrĩa ndendaga.,negative,I received the wrong item.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-144,Nĩ kũrĩ itĩ ithano thĩinĩ wa nyũmba ya gũkomba.,neutral,There are five chairs in the hall.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-POS-145,Mũbango ũyũ mwerũ ũtuotheragia wĩra witũ.,positive,The new system makes our work easier.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-146,Gũthĩnio nĩ gũtũmĩte njĩrĩrĩke mũno.,negative,The delay caused me a lot of trouble.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-147,Mũrũ wa baba nĩokire hwaĩ-inĩ wa mũthenya wa ira.,neutral,My cousin arrived yesterday evening.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-POS-148,Nĩngũkena mũno nĩ ũndũ wa kũrutithania wĩra na inyuĩ.,positive,I am glad we worked together.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-149,Nĩ ndarakarĩte nĩgũkorwo thĩna ũcio ndũrarutĩtwo.,negative,I am frustrated that the issue remains unresolved.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEU-150,Tangi rĩa maaĩ rĩrĩ thutha wa nyũmba.,neutral,The water tank is behind the house.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-151,Aruti wĩra maarĩ na ũkirĩrĩria na magĩteithia.,positive,The staff were patient and helpful.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-152,Mũrũri ũcio ndaandutĩte wĩhokeku.,negative,The seller was dishonest with me.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-153,Wĩruti ũyũ wĩna mĩario ĩtatũ.,neutral,The lesson covers three topics.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-POS-154,Nĩ ndakenera kwĩruta ũndũ mwerũ.,positive,I enjoyed learning something new.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEG-155,Gĩkũngũĩro kĩu gĩtiarĩ na ũrũmĩrĩri mwega.,negative,The event was poorly organised.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEU-156,Kaingĩ nĩndĩraũkaga thaa thita cia rũcinĩ.,neutral,I usually wake up at six.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-POS-157,Rĩera rĩarĩ rĩega mũno.,positive,The weather made the day beautiful.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEG-158,Mũrata wakwa nĩ aanjarĩirie na njĩra ngaru.,negative,My friend spoke harshly to me.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEU-159,Ũmũthĩ thoko nĩ ĩhingũrĩtwo.,neutral,The market is open today.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-160,Mũrata wakwa nĩahingirie kĩĩranĩro gĩake.,positive,My friend kept her promise.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-161,Gĩathĩ kĩu gĩatũũrire mũno.,negative,The service took far too long.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-162,Gatumbi kau karĩ na ũritũ wa kĩlo igĩrĩ.,neutral,The parcel weighs two kilograms.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-163,Ũhoro ũcio warĩ mũiganu na wa gũcanjamũra.,positive,The presentation was clear and engaging.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEG-164,Nĩ ndaigĩirwo nĩ hinya thuutha wa kũregwo.,negative,I felt discouraged after the rejection.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-165,Nĩandĩkire mũthenya ũrĩa warĩ ho thĩinĩ wa fomũ.,neutral,She wrote the date on the form.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-166,Nĩkĩo ngenaga mũno nĩ ũndũ wa wĩra ũcio.,positive,I am satisfied with the quality.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEG-167,Kĩndũ kĩu gĩakinyire kĩrĩ na thũkũmo.,negative,The product was damaged when it arrived.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEU-168,Barabara ĩyo ĩrutanagĩrĩria mĩciĩ ĩĩrĩ.,neutral,The road connects two villages.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-169,Ciana nĩ ciamũnyitire ũgeni mwarimũ wacio mũerũ igĩkenete.,positive,The children welcomed their new teacher happily.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-170,Ndirĩ mũkenu nĩ ũndũ wa ũritũ wa indo icio.,negative,I am unhappy with the quality.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEU-171,Ofisi ĩrĩ na andũ Ithathatū a kũruta wĩra.,neutral,The office has six employees.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-172,Nĩ ndĩraiguaga endĩtwo na ngamenyaga atĩ nĩ ndĩ bata mũno.,positive,I feel loved and appreciated.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEG-173,Gĩkundi gĩkĩ gĩtironire ũrũmwe wa gũkorwo na ũtũũro wa gũtũũria ũhoro.,negative,The team failed to communicate.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-174,Nĩndatigire mũrurumo wakwa thĩinĩ wa ngaari.,neutral,I left my umbrella in the car.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-175,Wĩra wa kũrũgamia ũndũ ũcio nĩwekirwo na ihenya na na njĩra njega.,positive,The repair was done quickly and properly.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEG-176,Nĩndarĩire ũhoro wa bata mũno.,negative,I lost important information.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-177,Nyũmba ya mĩcemanio ĩrĩ igũrũ.,neutral,The meeting room is upstairs.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-178,Ageni aitũ maarĩ na ũrata mũno.,positive,Our visitors were very friendly.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-179,Nyũmba ĩyo yarĩ na rĩĩta rĩtarĩ mwega.,negative,The room smelled unpleasant.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEU-180,Nĩagũrire iraatũ njerũ.,neutral,He bought a new pair of shoes.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-181,Nĩ ndĩkeneretie nĩ ũndũ wa maũndũ marĩa twĩkĩte.,positive,I am encouraged by the progress we made.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEG-182,Macookio make maarĩ ma kũmeneka na ma gĩthũri.,negative,The response was dismissive and rude.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEU-183,Cukuru ĩno ĩrĩ na nyũmba inyanya cia kũthomera.,neutral,The school has eight classrooms.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-184,Cukuru ĩrĩ na mũhuro wa gũteithĩrĩria.,positive,The school has a supportive environment.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-185,Nĩndĩrĩna guoya atĩ hihi nĩnjĩkĩte ũndũ ũtarĩ mwega.,negative,I am worried that I made a mistake.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-186,Duka ĩrĩ hakuhĩ na benki.,neutral,The shop is next to the bank.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-POS-187,Ũtaaro ũcio nĩwandeithirie gũtua itua rĩega.,positive,The advice helped me make a good choice.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-188,irio ciuma na cumbe muingī,negative,The food was too salty to eat.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-189,Nĩ ndĩrĩ gĩcemio hĩndĩ ya ithaa rĩa kerĩ.,neutral,I have an appointment at two o'clock.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-POS-190,Nĩ ngenirie mũno gĩathĩ-inĩ kĩu.,positive,I enjoyed the celebration.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-191,Ihooya rĩakwa nĩrĩaregirwo hatarĩ gĩtũmi.,negative,My request was refused without explanation.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEU-192,Marũa macio marĩ na mathangũ matatũ.,neutral,The letter contains three pages.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-193,Gĩkundi kĩu gĩkĩhingia muoroto wakĩo.,positive,The team reached its goal.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEG-194,Rũgendo rũu rwarĩ rũraihu mũno.,negative,The journey was uncomfortable.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEU-195,Basi ĩrĩrĩĩra taũni,neutral,The bus travels through the town.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-POS-196,Nĩ ndakena mũno nĩgũkorwo andũ othe nĩ maarutire wĩra wa kũnyita mbaru.,positive,I am pleased that everyone cooperated.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-197,Maríhi matinakinyaníra ,negative,The payment did not go through.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-198,Maitũ nĩarutĩte irio cia hwaĩ-inĩ.,neutral,My mother is preparing lunch.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-POS-199,Nyũmba ĩyo yarĩ na ũrugarĩ mũnene na ĩkahaana ta kwagĩrĩra gũikara mũndũ.,positive,The house feels warm and comfortable.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEG-200,Nĩndatuĩkire gĩconoko harĩ andũ nĩ ũndũ wa mĩtugo yakwa.,negative,I felt disappointed by their behaviour.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEU-201,Gĩcunjĩ kĩrĩ thĩinĩ wa kĩrũrũmĩ kĩu gĩgĩkũrũ,neutral,The file is in the blue folder.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-202,Ciugo ciake nĩ ciaheire mwĩhoko,positive,Her words gave me hope.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEG-203,Gĩcemio kĩu nĩgĩathirĩirio rĩrĩa gũtigeire o hanini gĩkainwo,negative,The appointment was cancelled at the last minute.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-204,Gĩcũrĩ kĩu nĩ ta akiri ithano na ũrĩa gĩtariĩ.,neutral,The farm is five acres in size.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-POS-205,Indo iria ciatũmirwo ciakinyire irĩ ndungĩra.,positive,The delivery arrived in good condition.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEG-206,Mataaro macio mandeherire handũ harĩa hatagĩrĩire.,negative,The instructions led me to the wrong place.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-207,Ciana nĩciakinyire mbere ya mũthenya gũgũkira,neutral,The children arrived before noon.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-208,Nĩ ndakenerire mũno gĩthikũ-inĩ kĩu.,positive,I had a wonderful time at the event.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEG-209,Ndímúnogu níkúgerania na thíína úyú.,negative,I am tired of dealing with this problem.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEU-210,Ndaheirwo ndũmĩrĩri ĩyo wĩoo.,neutral,I received the message last night.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-211,Aruti a wĩra makĩruta wĩra wa kũrũgamĩrĩra thĩna wakwa na njĩra njega mũno.,positive,The staff handled my request professionally.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-212,Aruti wĩra nĩ maregire gũthikĩrĩria ndeto ciakwa cia kũgamba.,negative,The staff ignored my complaint.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-213,Nyũmba ĩyo yārĩ na itũũra inya.,neutral,The building has four floors.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-214,Nĩ ndĩkenaga mũno nĩ ũndũ wa famĩli yakwa.,positive,I am proud of my family.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-215,Mũhũũri ndaakinyire.,negative,The package never arrived.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEU-216,Etirie gíkombe gía chai.,neutral,She ordered a cup of tea.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-POS-217,Múúmbíre mwerú úroneka úkíguchíríria.,positive,The new design looks attractive.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-218,Ciugo icio ciakũniire mũno.,negative,I felt hurt by those words.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-219,Cibitari ĩrĩkũgũka thaa mũgwanja cia rũciinĩ.,neutral,The clinic opens at seven in the morning.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-POS-220,Wĩruti ũcio nĩwandeithirie gũtaũkĩrũo nĩ ũndũ ũcio.,positive,The lesson helped me understand the topic.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-221,Wĩra ũcio ndwarĩ mwega na ndwarĩ wa kwĩhokeka,negative,The service was careless and unreliable.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEU-222,Mesa ĩyo ĩthondeketwo na mbũĩ.,neutral,The table is made of wood.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-223,Mũrata wakwa aanengerire mataaro mega.,positive,My friend gave me thoughtful advice.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEG-224,Mũbango ũcio ndwahikanirie ihinda rĩaguo rĩa gũthira.,negative,The project missed its deadline.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEU-225,Ndaandĩkire marĩĩtwa matatũ ibuku-inĩ rĩu.,neutral,I wrote three names in the notebook.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-226,Rũgendo rũu rwarĩ rwa gĩkeno mũno.,positive,The trip was exciting.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-227,Nĩ ndarakarĩte mũno tondũ wa kũũrĩra kĩyo gĩakwa kĩothe.,negative,I am upset that my efforts were wasted.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEU-228,Gatarũ karĩ kũrĩa gũthiĩ kuuma gĩikaro gĩa kerĩ.,neutral,The train departs from platform two.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-229,Nĩndakena mũno nĩgũkorwo thĩna ũcio nĩuthirĩte.,positive,I am happy that the problem was solved.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-230,Duka (nduka)	yuuma hinge ríría nginyire. ,negative,The shop was closed when I arrived.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-231,Mũcemanio ũrĩa ũgooka nĩ wa mũthenya wa Gatatũ.,neutral,The meeting is scheduled for Wednesday.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-232,Ũtungatĩ ũyũ nĩwahutĩtie ngoro mũno gũkĩra ũrĩa ndeendaga.,positive,The service exceeded my expectations.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-233,Macokio macio matarĩ ma ma na maarĩ ma kũhĩtithia.,negative,The answer was inaccurate and misleading.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEU-234,Mama níarí kamúgúnda kanini.,neutral,My uncle owns a small farm.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-235,O mũndũ nĩarutire kĩndũ kĩa bata.,positive,Everyone contributed something valuable.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-236,Indo ciakwa nĩ ciũrĩte,negative,My belongings were lost.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-237,Gĩthomo kĩrĩ na metha mĩrongo ĩĩrĩ.,neutral,The classroom has twenty desks.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-POS-238,Kĩndũ gĩkĩ nĩ gĩkora wĩra wake wega mũno.,positive,The product works perfectly.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-239,Ng'ano ĩyo nĩyatũmire andũ othe makorũo na kĩeha.,negative,The argument made everyone uncomfortable.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-240,Nĩngũcookia ibuku rĩu rũciũ.,neutral,I will return the book tomorrow.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-241,Nĩ ndaiguire ndamũkĩrĩtwo wega nĩ andũ a kũu.,positive,I felt welcomed by the community.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-242,Ndikenetio ní itua ríu rítaagíríire.,negative,I am unhappy with the unfair decision.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-243,Barabara ĩyo ĩrĩ na ũraihu wa kilomita igĩrĩ.,neutral,The road is two kilometres long.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-POS-244,Mwíkíre warí wakúgegania.,positive,The performance was impressive.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-245,Wĩra wa kũrũgamia ũndũ ũcio warĩ mũritũ na wa ndũũru gũkĩra ũrĩa ithuĩ twetereire.,negative,The repair cost more than expected.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-246,Duka nĩyakirĩire indo ũmũthĩ.,neutral,The shop received a delivery today.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-247,Nĩ ngũkena mũno nĩ ũndũ wa wĩhokeku waku,positive,I appreciate your honesty.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-248,Nyũmba ĩyo yarĩ na ũrugarĩ mũingĩ mũno ũndũ gũtũregeire gũkoma kuo.,negative,The room was too hot to sleep in.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEU-249,Nĩ kwarĩ andũ mũgwanja mũkera-inĩ ũcio.,neutral,There are seven people in the queue.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-250,Nyũmba ĩyo yarĩ theru na njega mũno.,positive,The room was clean and comfortable.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-251,Ũrĩa ndarutĩte wĩra nĩũniinwo nĩ mũtambo.,negative,The system deleted my work.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-252,Fomu ĩno nĩĩkabatara kũherithio mũhũro,neutral,The form requires a signature.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-POS-253,Wĩra wakwa mũritũ nĩwarutire maciaro mega.,positive,My hard work paid off.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-254,Ndiateithirwo rĩrĩa ndohoire ũteithio.,negative,I received no help when I asked.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEU-255,Agĩkinya mũciĩ ta thaa ikũmi na igĩrĩ.,neutral,He arrived at home at six o'clock.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-POS-256,Irio icio ciathondekirũ na ũritũ,positive,The meal was prepared with care.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-257,Mũbango ũcio nĩ ũtũmĩte njigue ta ndirĩ gĩtĩo,negative,The conversation left me feeling disrespected.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEU-258,Ofisi yakĩrĩirio nyũmba ĩngĩ njerũ.,neutral,The office moved to a new building.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-259,Nĩ ndĩĩriragĩria mũno kwambĩrĩria mũbango ũyũ.,positive,I am excited to start this project.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-260,Irio icio itiarĩ njerũ.,negative,The meal was not fresh.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEU-261,Gatumbi kau gakĩtũmwo mũthenya wa Kerĩ.,neutral,The parcel was sent on Tuesday.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-262,Mataaro macio maarĩ ma mũno na maarĩ gĩtũmi gĩa kũheana ũũmĩrĩru.,positive,The feedback was helpful and encouraging.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-263,Nĩ ndarĩkĩtie gũthĩnĩka nĩ ũndũ wa gũkua kũrĩa kwa maũndũ.,negative,I am frustrated by the lack of progress.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEU-264,Gĩthomo gĩkĩrĩra thaa ikũmi na ĩmwe.,neutral,The lesson ends at eleven.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-265,Gĩkundi kĩu gĩgĩtua maũndũ ma andũ othe na kĩhooto na gĩkĩmahe gĩtĩo.,positive,The team treated everyone fairly and respectfully.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEG-266,Ũhoro wa gũthondeka rũgendo warĩ na mahĩtia.,negative,The booking details were incorrect.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-267,Ndagũrire tiketi ya bashi ya mũthenya wa thaa ikũmi,neutral,I bought a ticket for the afternoon bus.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-POS-268,Nĩ ngatho nĩũndũ wa gũthikĩrĩria.,positive,I am grateful that you listened to me.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEG-269,Mataarĩna matiatũmĩirũo,negative,The instructions were not followed.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-270,Kĩĩhuro kĩrĩ na mĩrango ĩĩrĩ.,neutral,The kitchen has two doors.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-271,"O na kũrĩ ũguo, maũndũ marĩa meekĩkire marũmĩrĩire maakorirũo marĩ ma kĩmĩrũũru mũno kũrĩ marĩa mekĩrĩte mwĩhoko.",positive,The results were better than expected.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEG-272,Ihooya rĩakwa rĩateithirũo na ũtarĩ wĩhokeku.,negative,My request was handled carelessly.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-273,Mũrata wakwa atũũraga barabara ĩrĩa ĩngĩ.,neutral,My friend lives on the next street.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-274,Aruti wĩra nĩ maahotithirie ũndũ ũcio gũtuĩka mũhũthũ.,positive,The staff made the process simple.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEG-275,Umeme ũkĩhũrwo rĩrĩa mũcemanio warĩ mũrĩ kana,negative,The power went off during the meeting.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEU-276,Basi ũcio ũkĩrũgama hakuhĩ na gĩtarũ.,neutral,The bus stopped near the bridge.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-277,Nĩ ndakenire mũno nĩ ũndũ wa kũgĩa na ũgitĩri wa kĩĩroho.,positive,I enjoyed the peaceful surroundings.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-278,Kĩndũ kĩu gĩgĩthũka thuutha wa mũthenya ũmwe.,negative,The product broke after one day.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEU-279,Ripoti ĩyo nĩ ĩrĩ na ithimi cia mweri o mweri.,neutral,The report includes monthly figures.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-280,Mũirĩtu wa baba nĩatũheire ũhoro mwega.,positive,My cousin shared good news with us.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEG-281,Nindauníkire ngoro tondú gútirí ona úmwe weyumíririe.,negative,I was disappointed that nobody showed up.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-282,Nĩ ngũthi gĩthuranoinĩ kĩa kũrutwo wĩra mũthenya wa Thathaimo.,neutral,I will attend the training on Saturday.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-283,Mweke ũyũ mwerũ ũtũmaga njigue ndĩ na mwĩhoko.,positive,The new opportunity makes me optimistic.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-284,Ũtungata ndũkahingirie ũrutani ũrĩa twĩtĩkĩrĩte.,negative,The service did not meet the agreed standard.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEU-285,Nambara ya thimũ ĩandĩkĩtwo gacunjĩ-inĩ kau ka karata.,neutral,The phone number is written on the paper.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-POS-286,Nĩndĩrakenire mũno nĩ ũndũ wa ũrĩa maũndũ meekĩkire.,positive,I am pleased with how things turned out.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEG-287,Ũndũ ũcio warĩ mũũru kuuma o kĩambĩrĩria nginya mũthia.,negative,The experience was unpleasant from beginning to end.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-288,Mũcemanio ũcio warĩ kĩhuumũ-inĩ gĩa kana.,neutral,The meeting took place in room four.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-POS-289,Ũteithio wa ma ũgĩũka hĩndĩ ĩrĩa ndaũbatariire makĩria.,positive,The help arrived just when I needed it.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-NEG-290,Nĩ merirĩria ngũrĩte ihinda inene ũguo ngĩĩka ũndũ ũyũ.,negative,I regret spending so much time on this.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-291,Famĩlĩ ĩyo yathiiire na mbathi,neutral,The family travelled by bus.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-POS-292,Gĩkundi kĩu nĩ kĩronire marũũri makwa marĩ mega.,positive,The team welcomed my suggestions.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEG-293,Iteta rítiaríríirio ona rí.,negative,The complaint was never addressed.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-294,Duka nĩyakirire mathoke ikũmi ũmũthĩ rũciinĩ.,neutral,The shop received ten boxes this morning.,independently_reviewed_second_speaker_confirmed,,,test
+KIK-POS-295,Nĩ ngenaga mũno kuona atĩ mũbango ũcio nĩ ũrutĩte wĩra wega.,positive,I am pleased that the plan worked.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEG-296,Ũhoro ũrĩa nanyitĩte warĩ wa maheeni.,negative,The information I received was wrong.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-NEU-297,Nyũmba ya mabuku ĩrĩ na kombiuta njerũ.,neutral,The library has a new computer.,independently_reviewed_second_speaker_confirmed,,,train
+KIK-POS-298,Nĩ aaheire macokio mega ma ciũria ciakwa.,positive,The staff answered all my questions clearly.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEG-299,Mũndũ ũcio nĩandeherereire maũndũ matarĩ makwa.,negative,The person blamed me for something I did not do.,independently_reviewed_second_speaker_confirmed,,,dev
+KIK-NEU-300,Mucemanio úrambíríria thaa kenda na nuthu. ,neutral,The appointment is at half past three.,independently_reviewed_second_speaker_confirmed,,,train

@@ -1,0 +1,5 @@
+evaluated_at,dataset_version,model,data_sha256,model_sha256,accuracy,macro_f1
+before 2026-11-11 (commit d8f04d7),v1,word_char_lr,see data/v1,see models/v1,0.6667,0.6639
+2026-11-11T20:36:03+00:00,v1.1,word_char_lr,d0f7b40663e6,4534ff1965e8,0.6667,0.6639
+2026-11-12T11:23:27+00:00,supplementary-v1 heldout (60 fresh),official,acb3d4f6171b,4534ff1965e8,0.6667,0.6707
+2026-11-12T11:23:27+00:00,supplementary-v1 heldout (60 fresh),experimental,acb3d4f6171b,918d1ef1da90,0.7,0.6993
