@@ -110,7 +110,7 @@ Files: [`results/heldout/heldout_metrics.json`](results/heldout/heldout_metrics.
 
 ## Presentation and demo video
 
-- **Presentation/demo video URL (REQUIRED):** **To follow:** the link will be added to this README before 12 Nov 2026, 11:59 p.m. EAT
+- **Presentation/demo video URL (REQUIRED):** https://drive.google.com/file/d/1xNlBlOBOREPwqsO1lO0nKSKTwTPJq2Hd/view?usp=sharing
 - Optional second presentation/demo video: none
 - Optional hosted app URL: none (run locally with `python -m streamlit run app.py`)
 
@@ -125,7 +125,7 @@ Files: [`results/heldout/heldout_metrics.json`](results/heldout/heldout_metrics.
 - **Evaluation outputs and baseline comparison:** [`results/`](results/), [`logs/test_runs.csv`](logs/test_runs.csv)
 - **Runnable code and dependency file:** [`app.py`](app.py), [`train.py`](train.py), [`evaluate.py`](evaluate.py), [`validate.py`](validate.py), [`pipeline.py`](pipeline.py), [`experiments/`](experiments/), [`tools/`](tools/), [`requirements.txt`](requirements.txt)
 - **Trained artefacts or reproduction instructions:** [`models/`](models/) plus the commands above
-- **Video link:** **To follow:** the link will be added to this README before 12 Nov 2026, 11:59 p.m. EAT
+- **Video link:** https://drive.google.com/file/d/1xNlBlOBOREPwqsO1lO0nKSKTwTPJq2Hd/view?usp=sharing
 
 ## Attribution and permissions
 
